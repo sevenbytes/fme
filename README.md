@@ -1,2 +1,2 @@
-# gofme
-Go client for FME Server API
+# fme-go
+Go client for the FME Server.
