@@ -1,6 +1,6 @@
-![Go](https://github.com/sevenbytes/fme-go/workflows/Go/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/sevenbytes/fme-go)](https://goreportcard.com/report/github.com/sevenbytes/fme-go)
+![Go](https://github.com/sevenbytes/fme/workflows/Go/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sevenbytes/fme)](https://goreportcard.com/report/github.com/sevenbytes/fme)
 
-# fme-go
+# fme
 
 Go client for the FME Server.
